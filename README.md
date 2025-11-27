@@ -1,1 +1,2 @@
 "# Song-Wannarock" 
+Wanna Rock is one of my favourite songs, so I created a song lyric run by Python. The project features a simple interface that displays the lyrics of the song in sync with the music playback. It includes basic controls for play, pause, and navigation through the lyrics. The project aims to provide an enjoyable experience for users who want to sing along to their favorite songs.
